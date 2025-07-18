@@ -38,6 +38,12 @@ nav a{
     color: beige;
     font-style: italic;
 }
+nav a:hover{
+    text-decoration: none;
+    font: size 30px;
+    color: beige;
+    font-style: italic;
+}
 .bigt{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: italic;
